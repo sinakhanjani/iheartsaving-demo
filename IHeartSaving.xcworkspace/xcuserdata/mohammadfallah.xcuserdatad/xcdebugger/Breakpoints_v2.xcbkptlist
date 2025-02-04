@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EF79C8E2-EB4A-4EB5-B83B-8F58F6CD5B46"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8AABE6C-3CA1-4D03-8ADB-69ED6308445D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IHeartSaving/Modules/Login/SignInModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B7A56B4-8F10-482F-A48C-ED402DFCDABD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IHeartSaving/Modules/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "checkActivationAccount()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B7A56B4-8F10-482F-A48C-ED402DFCDABD - ac4eadcdff73801b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IHeartSaving.HomeVC.checkActivationAccount() -&gt; ()"
+                  moduleName = "IHeartSaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadfallah/Desktop/iHeartSaving/IHeartSaving_/IHeartSaving/Modules/Home/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "5B7A56B4-8F10-482F-A48C-ED402DFCDABD - f677de9c56f4eadb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in IHeartSaving.HomeVC.checkActivationAccount() -&gt; ()"
+                  moduleName = "IHeartSaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadfallah/Desktop/iHeartSaving/IHeartSaving_/IHeartSaving/Modules/Home/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
